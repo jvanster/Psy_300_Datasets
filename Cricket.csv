@@ -1,0 +1,251 @@
+ID,Strategy,Success_Pre,Success_Post
+1,Hard Work,53,74
+2,Hard Work,62,67
+3,Hard Work,52,33
+4,Hard Work,57,62
+5,Hard Work,55,44
+6,Hard Work,52,65
+7,Hard Work,45,54
+8,Hard Work,46,86
+9,Hard Work,49,72
+10,Hard Work,44,66
+11,Hard Work,72,78
+12,Hard Work,55,89
+13,Hard Work,57,44
+14,Hard Work,42,79
+15,Hard Work,48,65
+16,Hard Work,59,74
+17,Hard Work,42,59
+18,Hard Work,36,55
+19,Hard Work,56,22
+20,Hard Work,55,70
+21,Hard Work,49,19
+22,Hard Work,59,92
+23,Hard Work,47,79
+24,Hard Work,62,76
+25,Hard Work,44,100
+26,Hard Work,38,84
+27,Hard Work,61,55
+28,Hard Work,52,93
+29,Hard Work,39,51
+30,Hard Work,47,98
+31,Hard Work,37,26
+32,Hard Work,46,44
+33,Hard Work,53,73
+34,Hard Work,62,43
+35,Hard Work,68,73
+36,Hard Work,62,78
+37,Hard Work,35,26
+38,Hard Work,49,76
+39,Hard Work,45,25
+40,Hard Work,39,79
+41,Hard Work,56,78
+42,Hard Work,58,50
+43,Hard Work,40,85
+44,Hard Work,59,76
+45,Hard Work,58,82
+46,Hard Work,45,62
+47,Hard Work,50,92
+48,Hard Work,50,74
+49,Hard Work,44,61
+50,Hard Work,52,82
+51,Hard Work,43,84
+52,Hard Work,63,49
+53,Hard Work,30,77
+54,Hard Work,43,57
+55,Hard Work,30,30
+56,Hard Work,50,31
+57,Hard Work,55,52
+58,Hard Work,24,84
+59,Hard Work,40,82
+60,Hard Work,59,63
+61,Hard Work,58,65
+62,Hard Work,54,34
+63,Hard Work,52,66
+64,Hard Work,41,60
+65,Hard Work,55,82
+66,Hard Work,51,40
+67,Hard Work,39,80
+68,Hard Work,42,72
+69,Hard Work,52,48
+70,Hard Work,70,86
+71,Hard Work,54,65
+72,Hard Work,62,25
+73,Hard Work,44,49
+74,Hard Work,39,54
+75,Hard Work,49,87
+76,Hard Work,55,93
+77,Hard Work,45,25
+78,Hard Work,60,47
+79,Hard Work,58,37
+80,Hard Work,65,61
+81,Hard Work,51,80
+82,Hard Work,36,80
+83,Hard Work,58,82
+84,Hard Work,54,53
+85,Hard Work,52,93
+86,Hard Work,50,91
+87,Hard Work,23,79
+88,Hard Work,52,71
+89,Hard Work,65,71
+90,Hard Work,54,36
+91,Hard Work,40,68
+92,Hard Work,77,98
+93,Hard Work,51,87
+94,Hard Work,39,2
+95,Hard Work,39,79
+96,Hard Work,48,86
+97,Hard Work,42,88
+98,Hard Work,39,90
+99,Hard Work,48,65
+100,Hard Work,48,94
+101,Hard Work,44,39
+102,Hard Work,55,66
+103,Hard Work,67,30
+104,Hard Work,44,45
+105,Hard Work,39,93
+106,Hard Work,48,60
+107,Hard Work,59,44
+108,Hard Work,60,70
+109,Hard Work,66,63
+110,Hard Work,50,49
+111,Hard Work,50,88
+112,Hard Work,48,91
+113,Hard Work,64,46
+114,Hard Work,52,90
+115,Hard Work,45,50
+116,Hard Work,55,46
+117,Hard Work,33,38
+118,Hard Work,53,83
+119,Hard Work,45,82
+120,Hard Work,51,53
+121,Hard Work,54,52
+122,Hard Work,57,62
+123,Hard Work,57,57
+124,Hard Work,46,94
+125,Hard Work,42,90
+126,Wish Upon a Star,37,58
+127,Wish Upon a Star,45,39
+128,Wish Upon a Star,56,28
+129,Wish Upon a Star,78,46
+130,Wish Upon a Star,52,61
+131,Wish Upon a Star,42,69
+132,Wish Upon a Star,42,62
+133,Wish Upon a Star,51,50
+134,Wish Upon a Star,51,37
+135,Wish Upon a Star,45,45
+136,Wish Upon a Star,61,38
+137,Wish Upon a Star,46,46
+138,Wish Upon a Star,39,57
+139,Wish Upon a Star,42,57
+140,Wish Upon a Star,52,28
+141,Wish Upon a Star,57,59
+142,Wish Upon a Star,32,57
+143,Wish Upon a Star,52,45
+144,Wish Upon a Star,69,55
+145,Wish Upon a Star,46,41
+146,Wish Upon a Star,56,54
+147,Wish Upon a Star,52,36
+148,Wish Upon a Star,50,47
+149,Wish Upon a Star,38,51
+150,Wish Upon a Star,63,39
+151,Wish Upon a Star,52,42
+152,Wish Upon a Star,59,49
+153,Wish Upon a Star,66,53
+154,Wish Upon a Star,46,47
+155,Wish Upon a Star,38,41
+156,Wish Upon a Star,52,32
+157,Wish Upon a Star,45,26
+158,Wish Upon a Star,47,41
+159,Wish Upon a Star,60,45
+160,Wish Upon a Star,56,45
+161,Wish Upon a Star,63,46
+162,Wish Upon a Star,47,60
+163,Wish Upon a Star,45,61
+164,Wish Upon a Star,50,51
+165,Wish Upon a Star,52,48
+166,Wish Upon a Star,62,33
+167,Wish Upon a Star,63,48
+168,Wish Upon a Star,52,56
+169,Wish Upon a Star,52,42
+170,Wish Upon a Star,54,54
+171,Wish Upon a Star,49,68
+172,Wish Upon a Star,58,31
+173,Wish Upon a Star,76,44
+174,Wish Upon a Star,60,40
+175,Wish Upon a Star,43,47
+176,Wish Upon a Star,29,48
+177,Wish Upon a Star,43,45
+178,Wish Upon a Star,52,65
+179,Wish Upon a Star,37,45
+180,Wish Upon a Star,40,55
+181,Wish Upon a Star,62,46
+182,Wish Upon a Star,47,56
+183,Wish Upon a Star,65,58
+184,Wish Upon a Star,53,59
+185,Wish Upon a Star,35,56
+186,Wish Upon a Star,54,42
+187,Wish Upon a Star,63,58
+188,Wish Upon a Star,52,51
+189,Wish Upon a Star,51,44
+190,Wish Upon a Star,50,35
+191,Wish Upon a Star,38,55
+192,Wish Upon a Star,39,56
+193,Wish Upon a Star,45,48
+194,Wish Upon a Star,45,53
+195,Wish Upon a Star,45,51
+196,Wish Upon a Star,47,44
+197,Wish Upon a Star,49,42
+198,Wish Upon a Star,43,46
+199,Wish Upon a Star,46,52
+200,Wish Upon a Star,35,45
+201,Wish Upon a Star,48,52
+202,Wish Upon a Star,55,53
+203,Wish Upon a Star,55,41
+204,Wish Upon a Star,63,80
+205,Wish Upon a Star,61,62
+206,Wish Upon a Star,41,48
+207,Wish Upon a Star,63,37
+208,Wish Upon a Star,39,53
+209,Wish Upon a Star,50,55
+210,Wish Upon a Star,69,60
+211,Wish Upon a Star,54,56
+212,Wish Upon a Star,44,59
+213,Wish Upon a Star,46,50
+214,Wish Upon a Star,51,47
+215,Wish Upon a Star,54,46
+216,Wish Upon a Star,60,58
+217,Wish Upon a Star,45,44
+218,Wish Upon a Star,44,68
+219,Wish Upon a Star,47,45
+220,Wish Upon a Star,50,65
+221,Wish Upon a Star,43,56
+222,Wish Upon a Star,49,55
+223,Wish Upon a Star,55,50
+224,Wish Upon a Star,56,52
+225,Wish Upon a Star,61,46
+226,Wish Upon a Star,56,32
+227,Wish Upon a Star,58,41
+228,Wish Upon a Star,62,50
+229,Wish Upon a Star,29,94
+230,Wish Upon a Star,43,39
+231,Wish Upon a Star,39,47
+232,Wish Upon a Star,58,69
+233,Wish Upon a Star,43,53
+234,Wish Upon a Star,51,47
+235,Wish Upon a Star,46,42
+236,Wish Upon a Star,37,43
+237,Wish Upon a Star,54,48
+238,Wish Upon a Star,62,43
+239,Wish Upon a Star,52,45
+240,Wish Upon a Star,55,40
+241,Wish Upon a Star,26,64
+242,Wish Upon a Star,45,58
+243,Wish Upon a Star,45,59
+244,Wish Upon a Star,42,49
+245,Wish Upon a Star,39,51
+246,Wish Upon a Star,40,38
+247,Wish Upon a Star,54,45
+248,Wish Upon a Star,54,59
+249,Wish Upon a Star,41,55
+250,Wish Upon a Star,39,48
